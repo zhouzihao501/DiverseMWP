@@ -34,13 +34,7 @@ python process.py
 ```bash
 @inproceedings{zhou-etal-2023-learning-analogy,
     title = "Learning by Analogy: Diverse Questions Generation in Math Word Problem",
-    author = "Zhou, Zihao  and
-      Ning, Maizhen  and
-      Wang, Qiufeng  and
-      Yao, Jie  and
-      Wang, Wei  and
-      Huang, Xiaowei  and
-      Huang, Kaizhu",
+    author = "Zhou, Zihao  and Ning, Maizhen  and Wang, Qiufeng  and Yao, Jie  and Wang, Wei  and Huang, Xiaowei  and Huang, Kaizhu",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
     year = "2023",
     pages = "11091--11104",
